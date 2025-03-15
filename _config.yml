@@ -19,8 +19,8 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "vvoIfgang's study club"
 title_separator          : "-"
-future                   : "true"
-published                : "true"
+future                   : true
+published                : true
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "lee jeong min"
 description              : "good"
